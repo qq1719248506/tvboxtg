@@ -95,7 +95,6 @@
 			"timeout": 60,
 			"ext": "./json/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./json/wogg.json$$$XIAOMI"
 		},
-		{"key":"Xinshijue","name":"新视觉|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./json/tokenm.json$$$https://6080z.com/$$$noproxy$$$1$$$./json/wogg.json"},
 		{
 			"key": "hipy_js_玩偶哥哥[盘]",
 			"name": "玩偶哥哥[盘](drpy_t3)",
@@ -686,6 +685,24 @@
             "name": "范明明IPV6",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "fmm-IPV6",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "fmm-itv",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "fmm-radioFM",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
