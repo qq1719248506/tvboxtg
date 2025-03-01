@@ -13,10 +13,6 @@
             "name": "肥猫"
         },
         {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/drpy_t3/api.json",
-            "name": "drpy_t3精选"
-        },
-        {
             "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/南风/api.json",
             "name": "南风"
         },
@@ -27,10 +23,6 @@
         {
             "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/摸鱼儿/api.json",
             "name": "摸鱼儿"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/短剧频道/api.json",
-            "name": "短剧频道"
         },
         {
             "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/欧歌/api.json",
