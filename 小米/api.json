@@ -11,7 +11,7 @@
         },
         {
             "key": "config",
-            "name": "⚙云盘┃配置中心 UC扫两次码",
+            "name": "⚙云盘┃配置中心 0324 新增123盘",
             "type": 3,
             "api": "csp_ConfigGuard",
             "searchable": 0
@@ -27,8 +27,6 @@
                 "site_urls": [
                     "https://mihdr.top",
                     "http://www.miqk.cc",
-                    "http://www.xhww.net",
-                    "http://xhww.net",
                     "https://xiaomiai.site"
                 ],
                 "url_key": "Netfixtv",
@@ -52,7 +50,7 @@
         },
         {
             "key": "csp_UC",
-            "name": "🍚小米┃UC4K4K",
+            "name": "🍚小米┃UC123",
             "type": 3,
             "changeable": "0",
             "api": "csp_DuopanGuard",
@@ -115,25 +113,6 @@
             "ext": ""
         },
         {
-            "key": "悠悠",
-            "name": "🏊悠悠┃1080P",
-            "type": 3,
-            "api": "csp_Muou",
-            "playerType": 2,
-            "quickSearch": 1,
-            "ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA==",
-            "jar": "./jars/悠悠.jar"
-        },
-        {
-            "key": "巧技",
-            "name": "🚗巧记┃1080P",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "jar": "./jars/悠悠.jar",
-            "ext": "./txt/cksp.txt"
-        },
-        {
             "key": "天天",
             "name": "🦢天天┃1080P",
             "type": 3,
@@ -141,18 +120,24 @@
             "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
         },
         {
-            "key": "热热",
-            "name": "🏜热热┃1080P",
+            "key": "悠悠",
+            "name": "🏆悠悠┃1080P",
             "type": 3,
-            "api": "csp_AppRJGuard",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+            "api": "csp_AppYoYoGuard",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKzYseYYi0XppjT3PqIoGpRRJx2sAoWJyjHWCcqf9isoP8aiL8M2UosZyd+iyY9yzqi8hck/Irnt5dVfJ2Tqvgkxj0QLfzdKgsJPOtJLikeRUAw5X2GBxMAu5gKeiJfzcdfSljHqc2ZknSRJGT0REV7D/1aSEatzYLpHbpJgxDEv/ExW7rl0ZR7bG1hFwBAa49P86unuKBPIXp3mTO3p1did8MhIk3hWJ1cLdMG6dYbwAfC4L3jUEFsAyQsCH6uYRYg="
         },
         {
-            "key": "追剧",
-            "name": "🏈追剧┃1080P",
+            "key": "csp_Wwys",
+            "name": "👨农民┃1080P",
             "type": 3,
-            "api": "csp_AppRJGuard",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+            "api": "csp_WwysGuard",
+            "ext": "https://www.wwgz.cn"
+        },
+        {
+            "key": "csp_Lgyy",
+            "name": "⏳️️流光┃1080P",
+            "type": 3,
+            "api": "csp_FreeOkGuard"
         },
         {
             "key": "莉莉",
@@ -176,6 +161,13 @@
             "ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA=="
         },
         {
+            "key": "咕咕",
+            "name": "🛹番剧┃1080P",
+            "type": 3,
+            "api": "csp_AppGetGuard",
+            "ext": "sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A=="
+        },
+        {
             "key": "电影",
             "name": "🎬电影┃1080P",
             "type": 3,
@@ -184,12 +176,19 @@
             "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw=="
         },
         {
-            "key": "︎酷云",
-            "name": "🐰米兔┃1080P",
+            "key": "奇妙",
+            "name": "♟奇妙┃1080P",
             "type": 3,
             "quickSearch": 0,
             "api": "csp_AppGetGuard",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn4/zRHG7KueeJHsenaeUMOWp1EzObBSdbU9et5QXxSbLZNx3dMChdqtSieuV5wZj006LehfFeCmj8B095j2lIKIF0YoQe+MZcPjGy7gtOViYZ6wvyGkzWk6oD1mJmauAyZhYFgIf28dxzY5kbxJVtI2PjlO6xlD2NRNjVM5uVtSkhN2Pf9gmJ5qaWk40c4YC+w=="
+            "ext": "sHR2rlsfjI4L3t4RXQMknxpI3MBzuaDrH2PsBQxC38op5hYp0OZbDn4iJ615slmjVd+iI7Tl5Ue0Vm2GojmSTYMGSFh2aRBmEOKQ0locA9dvNXmz6vCgBlpFeFm/CQ3n1ep2SM+/awX6EoPD8V5c70mEnJDaI5kqnSlhF/wZJ/r0iCysTPux83KtOhToHnBg/VshjW3X7hDXcrKCadFsFw=="
+        },
+        {
+            "key": "米偌",
+            "name": "🌽米偌┃1080P",
+            "type": 3,
+            "api": "csp_AppMiToGuard",
+            "ext": "or8dey6pioFw+XxkF2wS/ROvkTgbBREH0Xrajzn6qmj+yQUg/WgQKcpbRzKFmuga6KFqTeFicZRR0FRlaLVx3aJYnOfQ/fXiBDdd9sBAYLxoR462Xk3BWzx78Et0Sk6MPcTbmDxsfbXP2HHwfO1erro/SQ7tD1Xxxuem1x/e3ys="
         },
         {
             "key": "csp_AppXY",
@@ -208,7 +207,7 @@
             "name": "🦵白白┃1080P",
             "type": 3,
             "api": "csp_SuBaiBaiGuard",
-            "ext": "https://www.subaibai.com/"
+            "ext": "https://www.subaibai.com"
         },
         {
             "key": "csp_LiteApple",
@@ -229,23 +228,19 @@
             "api": "csp_JpysGuard"
         },
         {
-            "key": "csp_Wwys",
-            "name": "👨农民┃1080P",
-            "type": 3,
-            "api": "csp_WwysGuard",
-            "ext": "https://www.wwgz.cn"
-        },
-        {
-            "key": "csp_Lgyy",
-            "name": "⏳️️流光┃1080P",
-            "type": 3,
-            "api": "csp_FreeOkGuard"
-        },
-        {
             "key": "csp_Lkdy",
             "name": "💐来看┃1080P",
             "type": 3,
             "api": "csp_LkdyGuard"
+        },
+        {
+            "key": "巧技",
+            "name": "🚗巧记┃1080P",
+            "type": 3,
+            "api": "csp_qiao2",
+            "playerType": 2,
+            "jar": "./jars/巧技.jar",
+            "ext": "./txt/cksp.txt"
         },
         {
             "key": "csp_MiSou",

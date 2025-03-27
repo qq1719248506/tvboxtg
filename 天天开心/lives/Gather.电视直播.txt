@@ -121,13 +121,111 @@ https://tv.iill.top/migu/dds
 https://tv.iill.top/migu/mgty
 
 #INSERT_HERE
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」06:55 常规赛 魔术VS黄蜂 周赫
+https://tv.iill.top/NBA/SjOKO0
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」06:55 常规赛 马刺VS活塞 王晓晨
+https://tv.iill.top/NBA/CBnDms
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」07:15 常规赛 勇士VS热火 杨健 李根 小七
+https://tv.iill.top/NBA/mOYwZG
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」07:25 常规赛 勇士VS热火 拜月宁
+https://tv.iill.top/NBA/xkxny2
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」07:25 常规赛 勇士VS热火 莫俊祺
+https://tv.iill.top/NBA/p5ZYge
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」07:25 常规赛 勇士VS热火 洪荒
+https://tv.iill.top/NBA/eVTb2F
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」07:25 常规赛 独行侠VS尼克斯 刘芳宇
+https://tv.iill.top/NBA/pgWuT6
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」07:55 常规赛 老鹰VS火箭 陈鑫隆
+https://tv.iill.top/NBA/2xUwaM
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」08:55 常规赛 灰熊VS爵士 邵化谦
+https://tv.iill.top/NBA/moRfuI
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」09:55 常规赛 骑士VS开拓者 姜帆
+https://tv.iill.top/NBA/FlbdFU
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」09:45 常规赛 雷霆VS国王 庄宁宇 陈正昊 魏欣怡
+https://tv.iill.top/NBA/2ocC55
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTA」02:00 郑钦文0-2萨巴伦卡 郑钦文0-2萨巴伦卡 清流播出
+https://tv.iill.top/Migu/9LpQXJ
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」10:00 钱天一晋级16强 刘炜珊3-4王添艺 钱天一晋级16强 刘炜珊3-4王添艺 周泽昊
+https://tv.iill.top/Migu/l8OdmG
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」10:00 钱天一晋级16强 刘炜珊3-4王添艺 钱天一晋级16强 刘炜珊3-4王添艺 2号桌
+https://tv.iill.top/Migu/8n4dqT
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」10:00 钱天一晋级16强 刘炜珊3-4王添艺 钱天一晋级16强 刘炜珊3-4王添艺 3号桌
+https://tv.iill.top/Migu/nn7lBG
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」10:00 钱天一晋级16强 刘炜珊3-4王添艺 钱天一晋级16强 刘炜珊3-4王添艺 4号桌
+https://tv.iill.top/Migu/HOaXJJ
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」10:00 钱天一晋级16强 刘炜珊3-4王添艺 钱天一晋级16强 刘炜珊3-4王添艺 5号桌
+https://tv.iill.top/Migu/wB3HDA
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」10:00 钱天一晋级16强 刘炜珊3-4王添艺 钱天一晋级16强 刘炜珊3-4王添艺 1号桌
+https://tv.iill.top/Migu/t49ghE
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」10:00 钱天一晋级16强 刘炜珊3-4王添艺 钱天一晋级16强 刘炜珊3-4王添艺 狂欢Yeah
+https://tv.iill.top/Migu/AhlTKq
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「LPL」15:40 2025LPL第二赛段小组赛Day5 2025LPL第二赛段小组赛Day5 官方解说
+https://tv.iill.top/Migu/CaWWbk
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「KPL」16:40 长沙TES.A vs 深圳KLG 长沙TES.A vs 深圳KLG 官方解说
+https://tv.iill.top/Migu/ihROzt
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:30 申裕斌/柳韩娜女双出战冲正赛 申裕斌/柳韩娜女双出战冲正赛 1号桌
+https://tv.iill.top/Migu/mVZR6F
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」17:30 申裕斌/柳韩娜女双出战冲正赛 申裕斌/柳韩娜女双出战冲正赛 2号桌
+https://tv.iill.top/Migu/vwysIL
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」18:40 申裕斌/柳韩娜女双出战冲正赛 申裕斌/柳韩娜女双出战冲正赛 3号桌
+https://tv.iill.top/Migu/KVnIvZ
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」18:40 申裕斌/柳韩娜女双出战冲正赛 申裕斌/柳韩娜女双出战冲正赛 4号桌
+https://tv.iill.top/Migu/fs2zxg
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」18:00 混双、男女单打17至32名附加赛 混双、男女单打17至32名附加赛 周冠达
+https://tv.iill.top/Migu/qBX9Xm
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」18:00 混双、男女单打17至32名附加赛 混双、男女单打17至32名附加赛 1号桌
+https://tv.iill.top/Migu/tDFNPJ
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」18:00 混双、男女单打17至32名附加赛 混双、男女单打17至32名附加赛 2号桌
+https://tv.iill.top/Migu/ugDcec
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」18:00 混双、男女单打17至32名附加赛 混双、男女单打17至32名附加赛 3号桌
+https://tv.iill.top/Migu/ncf0a0
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」18:00 混双、男女单打17至32名附加赛 混双、男女单打17至32名附加赛 4号桌
+https://tv.iill.top/Migu/y9mTW1
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」18:00 混双、男女单打17至32名附加赛 混双、男女单打17至32名附加赛 5号桌
+https://tv.iill.top/Migu/2gO5o3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「十五运乒乓球项目资格赛」18:00 混双、男女单打17至32名附加赛 混双、男女单打17至32名附加赛 狂欢Yeah
+https://tv.iill.top/Migu/F64sWN
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」18:30 北控vs辽宁赛前训练 北控vs辽宁赛前训练 周赫
+https://tv.iill.top/Migu/1ilKbK
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」18:30 北控vs辽宁赛前训练 北控vs辽宁赛前训练 哈秋
+https://tv.iill.top/Migu/Pii6G9
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第45轮 山东高速vs新疆伊力特 邵化谦 曾令旭 拜月宁
+https://tv.iill.top/Migu/vXpfQ3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第45轮 山东高速vs新疆伊力特 罗森
+https://tv.iill.top/Migu/c8N85B
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第45轮 山东高速vs新疆伊力特 盛哲
+https://tv.iill.top/Migu/NAAKfZ
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第45轮 山东高速vs新疆伊力特 现场原声
+https://tv.iill.top/Migu/d6YAed
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:10 常规赛第45轮 青岛国信制药vs上海久事 连睿 周鹏 张兆旭
+https://tv.iill.top/Migu/4TI1Sb
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第45轮 青岛国信制药vs上海久事 刘沛元
+https://tv.iill.top/Migu/VDpSaQ
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第45轮 青岛国信制药vs上海久事 陈渤胄
+https://tv.iill.top/Migu/DDln5n
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第45轮 青岛国信制药vs上海久事 现场原声
+https://tv.iill.top/Migu/4S6vBd
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:10 常规赛第45轮 北京控股vs辽宁本钢 孔德昕 霍楠
+https://tv.iill.top/Migu/5CQ1Wh
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第45轮 北京控股vs辽宁本钢 周赫
+https://tv.iill.top/Migu/yNtdij
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第45轮 北京控股vs辽宁本钢 哈秋
+https://tv.iill.top/Migu/Xsp6K9
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第45轮 北京控股vs辽宁本钢 现场原声
+https://tv.iill.top/Migu/LfFT1t
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第45轮 北京控股vs辽宁本钢 明星机位1
+https://tv.iill.top/Migu/gGboBD
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:25 常规赛第45轮 北京控股vs辽宁本钢 明星机位2
+https://tv.iill.top/Migu/RAeFLD
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「KPL」20:00 济南RW侠 vs 西安WE 济南RW侠 vs 西安WE 官方解说
+https://tv.iill.top/Migu/jk8AQM
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·中文「限UA」
-https://live.iill.top/phenix/fhzw
+http://dns.yiandrive.com:15907/phenix/fhzw
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·資訊「限UA」
-https://live.iill.top/phenix/fhzx
+http://dns.yiandrive.com:15907/phenix/fhzx
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·香港「限UA」
-https://live.iill.top/phenix/fhhk
+http://dns.yiandrive.com:15907/phenix/fhhk
 #EXTINF:-1 tvg-id="HOY国际财经台" tvg-name="HOY国际财经台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="•港澳「限制」",HOY 國際財經台「限HK」
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="•港澳「限制」",HOY TV「限HK」
@@ -449,27 +547,27 @@ http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="•广东「特产」",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-id="广州综合台" tvg-name="广州综合台" tvg-logo="https://epg.iill.top/logo/广州综合.png" group-title="•广东「特产」",广州综合
-https://live.iill.top/gztv/zhonghe
+http://dns.yiandrive.com:15907/gztv/zhonghe
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png" group-title="•广东「特产」",广州新闻
-https://live.iill.top/gztv/xinwen
+http://dns.yiandrive.com:15907/gztv/xinwen
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.iill.top/logo/广州法治.png" group-title="•广东「特产」",广州法治
-https://live.iill.top/gztv/fazhi
+http://dns.yiandrive.com:15907/gztv/fazhi
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.iill.top/logo/广州影视.png" group-title="•广东「特产」",广州影视
-https://live.iill.top/gztv/yingshi
+http://dns.yiandrive.com:15907/gztv/yingshi
 #EXTINF:-1 tvg-id="广州南国" tvg-name="广州南国" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="•广东「特产」",广州南国都市
-https://live.iill.top/gztv/shenghuo
+http://dns.yiandrive.com:15907/gztv/shenghuo
 #EXTINF:-1 tvg-id="1905极限反转" tvg-name="1905极限反转" tvg-logo="https://epg.iill.top/logo/1905.png" group-title="•特色「混搭」",1905 极限反转
-https://live.iill.top/1905/1905a
+http://dns.yiandrive.com:15907/1905/1905a
 #EXTINF:-1 tvg-id="1905环球经典" tvg-name="1905环球经典" tvg-logo="https://epg.iill.top/logo/1905.png" group-title="•特色「混搭」",1905 环球经典
-https://live.iill.top/1905/1905b
+http://dns.yiandrive.com:15907/1905/1905b
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="•特色「混搭」",CCTV6 电影
-https://live.iill.top/1905/cctv6
+http://dns.yiandrive.com:15907/1905/cctv6
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•特色「混搭」",斯诺克 𝟙
-https://live.iill.top/huya/880214
+http://dns.yiandrive.com:15907/huya/880214
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•特色「混搭」",斯诺克 𝟚
-https://live.iill.top/huya/880625
+http://dns.yiandrive.com:15907/huya/880625
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•特色「混搭」",UFC
-https://live.iill.top/huya/880223
+http://dns.yiandrive.com:15907/huya/880223
 #EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://epg.iill.top/logo/环球电视.png" group-title="•特色「混搭」",環球電視
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/RedBull.png" group-title="•特色「混搭」",Red Bull TV「体育」
@@ -477,171 +575,168 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/DeluxeLounge.png" group-title="•特色「混搭」",Deluxe Lounge HD「自然」
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&checkedby:iptvcat.com
 
-
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」热门赛事
-https://live.iill.top/bilibili/2162281110
+http://dns.yiandrive.com:15907/bilibili/10
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」CS 2
-https://live.iill.top/bilibili/21622811
+http://dns.yiandrive.com:15907/bilibili/21622811
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」CS 2
-https://live.iill.top/huya/483917
+http://dns.yiandrive.com:15907/huya/483917
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟
-https://live.iill.top/bilibili/6
+http://dns.yiandrive.com:15907/bilibili/6
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟙
-https://live.iill.top/huya/660000
+http://dns.yiandrive.com:15907/huya/660000
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟚
-https://live.iill.top/huya/660001
+http://dns.yiandrive.com:15907/huya/660001
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」英雄联盟 𝟙
-https://live.iill.top/douyu/288016
+http://dns.yiandrive.com:15907/douyu/288016
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」英雄联盟 𝟚
-https://live.iill.top/douyu/424559
+http://dns.yiandrive.com:15907/douyu/424559
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟•手游
-https://live.iill.top/bilibili/23138275
+http://dns.yiandrive.com:15907/bilibili/23138275
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」王者荣耀 𝟙
-https://live.iill.top/bilibili/55
+http://dns.yiandrive.com:15907/bilibili/55
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」王者荣耀 𝟚
-https://live.iill.top/bilibili/21654762
+http://dns.yiandrive.com:15907/bilibili/21654762
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」王者荣耀 𝟙
-https://live.iill.top/huya/660002
+http://dns.yiandrive.com:15907/huya/660002
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」王者荣耀 𝟚
-https://live.iill.top/huya/660164
+http://dns.yiandrive.com:15907/huya/660164
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」王者荣耀 𝟙
-https://live.iill.top/douyu/1863767
+http://dns.yiandrive.com:15907/douyu/1863767
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」王者荣耀 𝟚
-https://live.iill.top/douyu/1984839
+http://dns.yiandrive.com:15907/douyu/1984839
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」绝地求生
-https://live.iill.top/bilibili/98
+http://dns.yiandrive.com:15907/bilibili/98
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」绝地求生 𝟙
-https://live.iill.top/huya/660004
+http://dns.yiandrive.com:15907/huya/660004
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」绝地求生 𝟚
-https://live.iill.top/huya/660005
+http://dns.yiandrive.com:15907/huya/660005
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」绝地求生
-https://live.iill.top/douyu/100
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」绝地地图
-https://live.iill.top/douyu/5818871
+http://dns.yiandrive.com:15907/douyu/100
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」和平精英
-https://live.iill.top/huya/660006
+http://dns.yiandrive.com:15907/huya/660006
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」和平精英
-https://live.iill.top/douyu/999
+http://dns.yiandrive.com:15907/douyu/999
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」金铲铲之战
-https://live.iill.top/huya/660579
+http://dns.yiandrive.com:15907/huya/660579
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」金铲铲之战
-https://live.iill.top/douyu/9715241
+http://dns.yiandrive.com:15907/douyu/9715241
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」DOTA2
-https://live.iill.top/huya/660118
+http://dns.yiandrive.com:15907/huya/660118
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」DOTA2
-https://live.iill.top/douyu/3811559
+http://dns.yiandrive.com:15907/douyu/3811559
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」云顶之弈
-https://live.iill.top/douyu/522423
+http://dns.yiandrive.com:15907/douyu/522423
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」永劫无间
-https://live.iill.top/huya/660115
+http://dns.yiandrive.com:15907/huya/660115
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」永劫无间
-https://live.iill.top/huya/9662891
+http://dns.yiandrive.com:15907/huya/9662891
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」使命召唤•手游
-https://live.iill.top/bilibili/22741849
+http://dns.yiandrive.com:15907/bilibili/22741849
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」使命召唤•手游
-https://live.iill.top/huya/11718629
+http://dns.yiandrive.com:15907/huya/11718629
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」使命召唤•手游
-https://live.iill.top/douyu/9223245
+http://dns.yiandrive.com:15907/douyu/9223245
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」穿越火线
-https://live.iill.top/huya/660101
+http://dns.yiandrive.com:15907/huya/660101
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」穿越火线 𝟙
-https://live.iill.top/douyu/605964
+http://dns.yiandrive.com:15907/douyu/605964
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」穿越火线 𝟚
-https://live.iill.top/douyu/5388537
+http://dns.yiandrive.com:15907/douyu/5388537
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」穿越火线•手游
-https://live.iill.top/huya/660102
+http://dns.yiandrive.com:15907/huya/660102
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」第五人格
-https://live.iill.top/bilibili/5555
+http://dns.yiandrive.com:15907/bilibili/5555
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」第五人格
-https://live.iill.top/huya/idvesports
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」第五人格
-https://live.iill.top/douyu/3226194
+http://dns.yiandrive.com:15907/huya/idvesports
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」第五人格 
+http://dns.yiandrive.com:15907/douyu/3226194
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」逆战
-https://live.iill.top/huya/nsl2021
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」无畏契约
-https://live.iill.top/bilibili/22908869
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」无畏契约
-https://live.iill.top/huya/660679
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」无畏契约
-https://live.iill.top/douyu/4585645
+http://dns.yiandrive.com:15907/huya/nsl2021
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」无畏契约 
+http://dns.yiandrive.com:15907/bilibili/22908869
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」无畏契约 
+http://dns.yiandrive.com:15907/huya/660679
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」无畏契约 
+http://dns.yiandrive.com:15907/douyu/4585645
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」原神
-https://live.iill.top/douyu/10853239
+http://dns.yiandrive.com:15907/douyu/10853239
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」QQ飞车•手游
-https://live.iill.top/bilibili/21743919
+http://dns.yiandrive.com:15907/bilibili/21743919
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」QQ飞车•手游
-https://live.iill.top/douyu/5040227
+http://dns.yiandrive.com:15907/douyu/5040227
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」梦幻西游·手游
-https://live.iill.top/huya/9163712
+http://dns.yiandrive.com:15907/huya/9163712
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」街霸
-https://live.iill.top/huya/11437
+http://dns.yiandrive.com:15907/huya/11437
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」JJ斗地主
-https://live.iill.top/bilibili/22021983
+http://dns.yiandrive.com:15907/bilibili/22021983
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」JJ斗地主
-https://live.iill.top/douyu/488743
+http://dns.yiandrive.com:15907/douyu/488743
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」我的世界
-https://live.iill.top/douyu/738878
+http://dns.yiandrive.com:15907/douyu/738878
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」FIFA
-https://live.iill.top/douyu/7692166
+http://dns.yiandrive.com:15907/douyu/7692166
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」火影忍者
-https://live.iill.top/douyu/1997723
+http://dns.yiandrive.com:15907/douyu/1997723
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」跑跑卡丁车
-https://live.iill.top/douyu/7722576
+http://dns.yiandrive.com:15907/douyu/7722576
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」跑跑卡丁车•手游
-https://live.iill.top/douyu/6672862
+http://dns.yiandrive.com:15907/douyu/6672862
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",音乐石榴「音乐」
-https://live.iill.top/huya/17091681
+http://dns.yiandrive.com:15907/huya/17091681
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",音乐速递「音乐」
-https://live.iill.top/huya/19439762
+http://dns.yiandrive.com:15907/huya/19439762
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",治愈•放松「音乐」
-https://live.iill.top/huya/21241811
+http://dns.yiandrive.com:15907/huya/21241811
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",阅读•学习「音乐」
-https://live.iill.top/huya/21241813
+http://dns.yiandrive.com:15907/huya/21241813
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电视剧•1「解说」
-https://live.iill.top/huya/21277391
+http://dns.yiandrive.com:15907/huya/21277391
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电视剧•2「解说」
-https://live.iill.top/huya/25018873
+http://dns.yiandrive.com:15907/huya/25018873
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•1「解说」
-https://live.iill.top/huya/20289754
+http://dns.yiandrive.com:15907/huya/20289754
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•2「解说」
-https://live.iill.top/huya/24983280
+http://dns.yiandrive.com:15907/huya/24983280
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•3「解说」
-https://live.iill.top/huya/24396428
+http://dns.yiandrive.com:15907/huya/24396428
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",动漫•1「解说」
-https://live.iill.top/huya/19757963
+http://dns.yiandrive.com:15907/huya/19757963
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",恐怖电影「解说」
-https://live.iill.top/huya/23419131
+http://dns.yiandrive.com:15907/huya/23419131
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",漫威「解说」
-https://live.iill.top/huya/17089779
+http://dns.yiandrive.com:15907/huya/17089779
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",美剧「解说」
-https://live.iill.top/huya/20488841
+http://dns.yiandrive.com:15907/huya/20488841
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",七龙珠「解说」
-https://live.iill.top/huya/25650806
+http://dns.yiandrive.com:15907/huya/25650806
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",止戈电影「解说」
-https://live.iill.top/huya/19863777
+http://dns.yiandrive.com:15907/huya/19863777
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",挨饿德•1「其他」
-https://live.iill.top/huya/20985858
+http://dns.yiandrive.com:15907/huya/20985858
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",挨饿德•2「其他」
-https://live.iill.top/huya/17693860
+http://dns.yiandrive.com:15907/huya/17693860
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",互扇巴掌大赛「其他」
-https://live.iill.top/huya/20072873
+http://dns.yiandrive.com:15907/huya/20072873
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",荒野求生「其他」
-https://live.iill.top/huya/593667
+http://dns.yiandrive.com:15907/huya/593667
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",野行者「其他」
-https://live.iill.top/huya/20072663
+http://dns.yiandrive.com:15907/huya/20072663
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",跳舞「其他」
-https://live.iill.top/huya/24634408
+http://dns.yiandrive.com:15907/huya/24634408
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",茶啊二中「动画」
-https://live.iill.top/huya/11213191
+http://dns.yiandrive.com:15907/huya/11213191
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",哆啦A梦「动漫」
-https://live.iill.top/huya/11601963
+http://dns.yiandrive.com:15907/huya/11601963
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",航海王「动漫」
-https://live.iill.top/huya/16913382
+http://dns.yiandrive.com:15907/huya/16913382
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",七龙珠「动漫」
-https://live.iill.top/huya/11601966
+http://dns.yiandrive.com:15907/huya/11601966
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",猫和老鼠「动漫」
-https://live.iill.top/huya/11352879
+http://dns.yiandrive.com:15907/huya/11352879
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",中华小当家「动漫」
-https://live.iill.top/huya/11342413
+http://dns.yiandrive.com:15907/huya/11342413
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/bbc1.png" group-title="•广播「壹」",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
